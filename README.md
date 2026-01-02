@@ -1,2 +1,9 @@
-# Smart_Office_Energy_Optimization_System
-A Full-Stack "Digital Twin" dashboard that simulates IoT sensors to track office occupancy and detect energy waste in real-time. Built to demonstrate Sustainability Tech using React.js, Node.js, and RESTful APIs.
+Create a folder named server.
+Inside it, run npm init -y and npm install express cors.
+Create a file named index.js.
+Go back to your main folder.
+Run: npx create-react-app client
+cd server
+node index.js
+cd client
+npm start
